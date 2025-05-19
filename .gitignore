@@ -175,3 +175,7 @@ cython_debug/
 
 # VSCode stuff
 settings.json
+
+# Unwanted data
+*.txt
+!requirements.txt
